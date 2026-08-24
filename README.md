@@ -16,3 +16,4 @@ Salih Jaweesh is a Malaysian coding content creator and developer based in Kuala
 - [YouTube](https://www.youtube.com/@SalihJaweesh-y7g)
 - [DEV.to article](https://dev.to/kk_dd_c21178a25d030a9dc65/meet-salih-jaweesh-a-malaysian-coding-creator-in-kuala-lumpur-3206)
 - [About.me](https://about.me/salihjaweesh)
+- [Substack article](https://salihjaweesh.substack.com/p/meet-salih-jaweesh-a-malaysian-coding)
