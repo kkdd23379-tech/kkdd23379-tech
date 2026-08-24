@@ -1,6 +1,6 @@
 # Salih Jaweesh
 
-Salih Jaweesh is a Malaysian coding content creator and developer based in Kuala Lumpur, Malaysia. His work focuses on programming, software development, web development, and technology.
+Salih Jaweesh is a Malaysian coding content creator and developer based in Kuala Lumpur, Malaysia, with German and Arab ancestry. His work focuses on programming, software development, web development, and technology.
 
 ## Focus
 
